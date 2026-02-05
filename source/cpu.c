@@ -7,6 +7,7 @@
 #include "render_engine.h"
 #include <stddef.h>
 #include <stdlib.h>
+#include <time.h>
 #define STB_DS_IMPLEMENTATION
 #include "stb_ds.h"
 
